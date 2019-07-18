@@ -40,4 +40,10 @@ public class LeavesPage {
     @FindBy(xpath = "//div[1]/div[2]/div[1]/div[1]/div")
     public WebElement searchButton;
 
+    @FindBy (css = ".btn.btn-primary.btn-sm.o_list_button_add")
+    public  WebElement createVerification;
+
+    @FindBy(xpath = "//div[2]/div[1]/ol/li")
+    public WebElement leavesSummaryText;
+
 }
