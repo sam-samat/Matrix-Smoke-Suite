@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Smoke tests" verbose="2">
+    <test name="smoke tests">
+        <packages>
+            <package name="matrixSmoke"/>
+
+
+        </packages>
+        <classes>
+            <class name="MatrixSmokeSuite">
+
+                <!--                <methods>-->
+                <!--                    <exclude name="verifyNames"/>-->
+                <!--                </methods>-->
+            </class>
+        </classes>
+
+    </test>
+
+
+</suite>
