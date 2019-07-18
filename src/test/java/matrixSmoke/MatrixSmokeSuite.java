@@ -36,4 +36,22 @@ public class MatrixSmokeSuite extends TestBase {
         Assert.assertTrue(leaves.leavesRequestMenu.isDisplayed(),"Leaves request menu verification failed");
 
     }
+
+    @Test
+    public void searchFilterByApproved()throws InterruptedException{
+        HomePage hp=new HomePage();
+        hp.leavesButton.click();
+
+        LeavesPage lp=new LeavesPage();
+        lp.addSearchFilter.click();
+
+        lp.filterButton.click();
+
+        lp.approvedLeavesFilter.click();
+
+        String expected="Approved Leaves";
+        String actual=lp.searchButton.getText();
+        Assert.assertTrue(actual.contains(expected));
+        Assert.assertTrue(lp.approvedLeavesFilter.isDisplayed());
+    }
 }
