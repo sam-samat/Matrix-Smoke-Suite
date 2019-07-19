@@ -35,7 +35,7 @@ public class MatrixSmokeSuite extends TestBase {
 
         Assert.assertTrue(leaves.july31DateInput.getAttribute("value").contains("07/31/2019"),"Leaves date verification failed");
         Assert.assertTrue(leaves.leavesRequestMenu.isDisplayed(),"Leaves request menu verification failed");
-
+        System.out.println(leaves.july31DateInput.getAttribute("value"));
     }
 
     @Test
@@ -90,6 +90,23 @@ public class MatrixSmokeSuite extends TestBase {
 
         Assert.assertTrue(leavesPage.messageText.isDisplayed(),"Message is not displayed");
     }
+
+    @Test
+    public void clickLeaveButtonRequst()throws Exception{
+        HomePage hp=new HomePage();
+        hp.leavesButton.click();
+
+        LeavesPage lp=new LeavesPage();
+        lp.addSearchFilter.click();
+
+        lp.filterButton.click();
+
+        lp.currentYearFilter.click();
+
+        String actualText ="Current Year";
+        Assert.assertEquals(lp.currentYearFilter.getText(),actualText);
+        Assert.assertTrue(lp.currentYearFilter.isDisplayed());
+
         @Test
     public void addDetatilsOfLeaveRequest() {
         HomePage homePage = new HomePage();
@@ -122,5 +139,6 @@ public class MatrixSmokeSuite extends TestBase {
         String expectedTitleRequest="Leaves Request";
         String actualTitleRequest=Driver.getDriver().getTitle();
         Assert.assertEquals(expectedTitleRequest,actualTitleRequest,"Leaves request title didn't pass");
+
     }
 }
