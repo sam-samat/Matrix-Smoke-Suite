@@ -70,4 +70,6 @@ public class LeavesPage {
     @FindBy(xpath = "/html/body/div[1]/div[2]/div[2]/div/div/div/div/p")
     public WebElement messageText;
 
+    @FindBy(xpath = "//div[2]/div[1]/div[3]/div[1]/div[1]/ul/li[12]/a")
+    public WebElement currentYearFilter;
 }

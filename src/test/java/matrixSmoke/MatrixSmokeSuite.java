@@ -90,4 +90,20 @@ public class MatrixSmokeSuite extends TestBase {
 
         Assert.assertTrue(leavesPage.messageText.isDisplayed(),"Message is not displayed");
     }
+    @Test
+    public void clickLeaveButtonRequst()throws Exception{
+        HomePage hp=new HomePage();
+        hp.leavesButton.click();
+
+        LeavesPage lp=new LeavesPage();
+        lp.addSearchFilter.click();
+
+        lp.filterButton.click();
+
+        lp.currentYearFilter.click();
+
+        String actualText ="Current Year";
+        Assert.assertEquals(lp.currentYearFilter.getText(),actualText);
+        Assert.assertTrue(lp.currentYearFilter.isDisplayed());
+    }
 }
