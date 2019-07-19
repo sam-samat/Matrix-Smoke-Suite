@@ -71,7 +71,23 @@ public class MatrixSmokeSuite extends TestBase {
     String actual= Driver.getDriver().getTitle();
     Assert.assertTrue(actual.contains(actual));
 
+    }
 
+    @Test
+    public void discardAllocationRequest(){
+        HomePage homePage = new HomePage();
+        homePage.leavesButton.click();
 
-}
+        LeavesPage leavesPage = new LeavesPage();
+        leavesPage.allocationButton.click();
+        leavesPage.createButton.click();
+        leavesPage.descriptionInput.sendKeys("off");
+        leavesPage.leaveTypeInput.sendKeys("shopping");
+        leavesPage.daysNumInput.clear();
+        leavesPage.daysNumInput.sendKeys("3");
+        leavesPage.discardButton.click();
+        leavesPage.okButton.click();
+
+        Assert.assertTrue(leavesPage.messageText.isDisplayed(),"Message is not displayed");
+    }
 }

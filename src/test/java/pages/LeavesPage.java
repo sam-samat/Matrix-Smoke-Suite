@@ -46,4 +46,28 @@ public class LeavesPage {
     @FindBy(xpath = "//div[2]/div[1]/ol/li")
     public WebElement leavesSummaryText;
 
+    @FindBy (xpath = "/html/body/div[1]/div[1]/div[1]/div[12]/ul/li[3]/a/span")
+    public WebElement allocationButton;
+
+    @FindBy (xpath = "//button[@accesskey='c']")
+    public WebElement createButton;
+
+    @FindBy(xpath = "//input[@class='o_field_char o_field_widget o_input']")
+    public WebElement descriptionInput;
+
+    @FindBy(xpath = "//input[@class='o_input ui-autocomplete-input']")
+    public WebElement leaveTypeInput;
+
+    @FindBy (xpath = "//input[@class='o_field_float o_field_number o_field_widget o_input oe_inline']")
+    public WebElement daysNumInput;
+
+    @FindBy(xpath = "//button[@class='btn btn-default btn-sm o_form_button_cancel']")
+    public WebElement discardButton;
+
+    @FindBy(xpath = "//*[@id=\"modal_36\"]/div/div/div[3]/button[1]/span")
+    public WebElement okButton;
+
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[2]/div/div/div/div/p")
+    public WebElement messageText;
+
 }
