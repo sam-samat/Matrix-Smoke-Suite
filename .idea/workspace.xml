@@ -22,7 +22,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
+
+            <state relative-caret-position="1386">
+
             <state relative-caret-position="945">
+
               <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
             </state>
           </provider>
@@ -39,9 +43,27 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
+
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,8 +74,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/LeavesPage.java">
           <provider selected="true" editor-type-id="text-editor">
+
+            <state relative-caret-position="-199">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+
             <state relative-caret-position="553">
               <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,7 +91,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Config.java">
           <provider selected="true" editor-type-id="text-editor">
+
+            <state relative-caret-position="418">
+
             <state relative-caret-position="285">
+
               <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -78,8 +109,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
+
+            <state relative-caret-position="176">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+
             <state relative-caret-position="120">
               <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,7 +126,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
+
+            <state relative-caret-position="66">
+
             <state relative-caret-position="45">
+
               <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
@@ -99,8 +139,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/matrixSmoke/MatrixSmokeSuite.java">
           <provider selected="true" editor-type-id="text-editor">
+
+            <state relative-caret-position="524">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+
             <state relative-caret-position="613">
               <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,6 +208,19 @@
         <subPane>
           <expand>
             <path>
+
+              <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
+
               <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -174,27 +232,43 @@
             <path>
               <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
+
               <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
+
               <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="matrixSmoke" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
+
               <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -274,6 +348,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26439232" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+
     <frame x="0" y="23" width="1440" height="830" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -283,6 +367,7 @@
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
+
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -309,26 +394,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="updated Mirzat" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/smokeSuite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
+        <state relative-caret-position="1386">
           <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
         </state>
       </provider>
@@ -340,9 +409,59 @@
         </state>
       </provider>
     </entry>
+
+
+    <entry file="file://$PROJECT_DIR$/smokeSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="418">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+
+        <state relative-caret-position="405">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="550">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+
+        <state relative-caret-position="945">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="308">
+
         <state relative-caret-position="150">
+
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -352,8 +471,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Config.java">
       <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="-199">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+
         <state relative-caret-position="285">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#541#542#0" expanded="true" />
@@ -364,8 +488,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="176">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+
         <state relative-caret-position="120">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -374,6 +503,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="66">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+
         <state relative-caret-position="45">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
@@ -386,13 +519,19 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/matrixSmoke/MatrixSmokeSuite.java">
       <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="524">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+
         <state relative-caret-position="613">
           <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
