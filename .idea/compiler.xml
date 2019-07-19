@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MatrixSmkSuite" />
+        <module name="Matrix-Smoke-Suites" />
+        <module name="Matrix-Smoke-Suite2" />
       </profile>
     </annotationProcessing>
   </component>
