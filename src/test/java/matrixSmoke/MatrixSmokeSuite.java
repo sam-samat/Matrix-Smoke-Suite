@@ -5,6 +5,7 @@ import pages.HomePage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.LeavesPage;
+import utilities.Driver;
 import utilities.TestBase;
 
 public class MatrixSmokeSuite extends TestBase {
@@ -36,4 +37,41 @@ public class MatrixSmokeSuite extends TestBase {
         Assert.assertTrue(leaves.leavesRequestMenu.isDisplayed(),"Leaves request menu verification failed");
 
     }
+
+    @Test
+    public void searchFilterByApproved()throws InterruptedException{
+        HomePage hp=new HomePage();
+        hp.leavesButton.click();
+
+        LeavesPage lp=new LeavesPage();
+        lp.addSearchFilter.click();
+
+        lp.filterButton.click();
+
+        lp.approvedLeavesFilter.click();
+
+        String expected="Approved Leaves";
+        String actual=lp.searchButton.getText();
+        Assert.assertTrue(actual.contains(expected));
+        Assert.assertTrue(lp.approvedLeavesFilter.isDisplayed());
+    }
+
+@Test
+    public void createButtonVerification(){
+
+    HomePage hp=new HomePage();
+    hp.leavesButton.click();
+
+    LeavesPage lp=new LeavesPage();
+
+    Assert.assertTrue(lp.leavesSummaryText.isDisplayed());
+
+    lp.createVerification.click();
+    String Expected="Create";
+    String actual= Driver.getDriver().getTitle();
+    Assert.assertTrue(actual.contains(actual));
+
+
+
+}
 }
