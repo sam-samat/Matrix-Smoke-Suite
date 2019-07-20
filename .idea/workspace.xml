@@ -321,12 +321,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MatrixSmokeSuite_SaveAndDropButton - 2019.07.18 at 10h 43m 55s.xml">
-      <configuration name="MatrixSmokeSuite.SaveAndDropButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MatrixSmokeSuite_SaveAndDropButton - 2019.07.18 at 10h 46m 50s.xml">
-      <configuration name="MatrixSmokeSuite.SaveAndDropButton" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="MatrixSmokeSuite_SaveAndDropButton - 2019.07.18 at 10h 47m 56s.xml">
       <configuration name="MatrixSmokeSuite.SaveAndDropButton" configurationId="TestNG" />
     </history-entry>
@@ -350,6 +344,12 @@
     </history-entry>
     <history-entry file="MatrixSmokeSuite_SaveButton - 2019.07.18 at 11h 57m 28s.xml">
       <configuration name="MatrixSmokeSuite.SaveButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite - 2019.07.20 at 09h 49m 11s.xml">
+      <configuration name="MatrixSmokeSuite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite_LeaveRequestSearchButton - 2019.07.20 at 09h 50m 20s.xml">
+      <configuration name="MatrixSmokeSuite.LeaveRequestSearchButton" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
