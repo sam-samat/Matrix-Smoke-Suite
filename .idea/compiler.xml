@@ -8,6 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Matrix-Smoke-Suite" />
         <module name="MatrixSmkSuite" />
+        <module name="Matrix-Smoke-Suites" />
+        <module name="Matrix-Smoke-Suit" />
+        <module name="Matrix-Smoke-Suite2" />
+        <module name="Matrix-Smoke-Suite" />
       </profile>
     </annotationProcessing>
   </component>
