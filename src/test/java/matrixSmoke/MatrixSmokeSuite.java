@@ -52,6 +52,23 @@ public class MatrixSmokeSuite extends TestBase {
         leaves.okButton.click();
     }
 
+    @Test
+    public void searchFilterByApproved(){
+        HomePage homePage=new HomePage();
+        homePage.leavesButton.click();
+
+        LeavesPage leavesPage=new LeavesPage();
+        leavesPage.addSearchFilter.click();
+
+        leavesPage.filterButton.click();
+
+        leavesPage.approvedLeavesFilter.click();
+
+        String expected="Approved Leaves";
+        String actual=leavesPage.searchButton.getText();
+        Assert.assertTrue(actual.contains(expected));
+        Assert.assertTrue(leavesPage.approvedLeavesFilter.isDisplayed());
+    }
 
     @Test
     public void SaveButton() {
