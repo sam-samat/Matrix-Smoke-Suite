@@ -18,18 +18,16 @@ public class Driver {
 
     public static WebDriver getDriver(){
         if(driver == null){
-            switch (Config.getProperty("browser")){
-                case "chrome":
-                    WebDriverManager.chromedriver().setup();
-                    driver = new ChromeDriver();
-                    break;
-                case "firefox":
-                    WebDriverManager.firefoxdriver().setup();
-                    driver = new FirefoxDriver();
-                    break;
-                default:
-                    WebDriverManager.chromedriver().setup();
-                    driver = new ChromeDriver();
+            String browser = Config.getProperty("browser");
+            if ("chrome".equals(browser)) {
+                WebDriverManager.chromedriver().setup();
+                driver = new ChromeDriver();
+            } else if ("firefox".equals(browser)) {
+                WebDriverManager.firefoxdriver().setup();
+                driver = new FirefoxDriver();
+            } else {
+                WebDriverManager.chromedriver().setup();
+                driver = new ChromeDriver();
             }
 
             driver.manage().timeouts().implicitlyWait(12, TimeUnit.SECONDS);
