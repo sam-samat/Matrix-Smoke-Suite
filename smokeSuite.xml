@@ -6,14 +6,14 @@
 
 
         </packages>
-        <classes>
-            <class name="MatrixSmokeSuite">
+<!--        <classes>-->
+<!--            <class name="MatrixSmokeSuite">-->
 
-                <!--                <methods>-->
-                <!--                    <exclude name="verifyNames"/>-->
-                <!--                </methods>-->
-            </class>
-        </classes>
+<!--                &lt;!&ndash;                <methods>&ndash;&gt;-->
+<!--                &lt;!&ndash;                    <exclude name="verifyNames"/>&ndash;&gt;-->
+<!--                &lt;!&ndash;                </methods>&ndash;&gt;-->
+<!--            </class>-->
+<!--        </classes>-->
 
     </test>
 
