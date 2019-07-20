@@ -4,11 +4,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.w3c.dom.html.HTMLInputElement;
+
 import utilities.Driver;
 
 public class LeavesPage {
 
+    public WebElement alert;
     WebDriver driver;
 
     public LeavesPage() {
@@ -81,4 +82,9 @@ public class LeavesPage {
     @FindBy (linkText = "Leaves Summary")
     public WebElement leavesSummaryButton;
 
+    @FindBy(xpath= "//tbody/tr/td[6]")
+    public WebElement dateButton;
+
+    @FindBy(xpath = "//h4[@class='modal-title']")
+    public WebElement warningMessage;
 }

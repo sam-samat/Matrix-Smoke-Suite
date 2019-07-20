@@ -6,12 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Matrix-Smoke-Suite" />
         <module name="MatrixSmkSuite" />
-        <module name="Matrix-Smoke-Suites" />
-        <module name="Matrix-Smoke-Suit" />
-        <module name="Matrix-Smoke-Suite2" />
         <module name="Matrix-Smoke-Suite" />
+        <module name="Matrix-Smoke-Suites" />
+        <module name="Matrix-Smoke-Suite2" />
+        <module name="Matrix-Smoke-Suit" />
       </profile>
     </annotationProcessing>
   </component>
