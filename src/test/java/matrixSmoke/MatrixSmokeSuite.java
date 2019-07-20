@@ -140,5 +140,36 @@ public class MatrixSmokeSuite extends TestBase {
         String actualTitleRequest=Driver.getDriver().getTitle();
         Assert.assertEquals(expectedTitleRequest,actualTitleRequest,"Leaves request title didn't pass");
 
+
+
     }
+        @Test
+        public void LeavesSummaryVerification()throws InterruptedException {
+            HomePage homepage = new HomePage();
+            Thread.sleep(1000);
+            homepage.leavesButton.click();
+            LeavesPage leavesPage = new LeavesPage();
+            leavesPage.leavesSummary.click();
+            Thread.sleep(1500);
+            Assert.assertEquals(leavesPage.leavesSummaryText.getText(), "Leaves Summary");
+        }
+        @Test
+        public void  LeavesSummaryCreateError() throws InterruptedException {
+            HomePage homepage =new HomePage();
+            Thread.sleep(1000);
+            homepage.leavesButton.click();
+            LeavesPage leavesPage = new LeavesPage();
+            leavesPage.leavesSummary.click();
+            Thread.sleep(2000);
+            leavesPage.SummaryCreate.click();
+            Thread.sleep(2000);
+            leavesPage.SummarySave.click();
+            Thread.sleep(1000);
+            Assert.assertTrue(leavesPage.errMessage.isDisplayed());
+
+
+        }
+
+    }
+
 }
