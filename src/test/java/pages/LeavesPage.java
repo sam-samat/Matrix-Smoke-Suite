@@ -4,9 +4,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.w3c.dom.html.HTMLInputElement;
 import utilities.Driver;
 
 public class LeavesPage {
+
     WebDriver driver;
 
     public LeavesPage() {
@@ -72,4 +74,11 @@ public class LeavesPage {
 
     @FindBy(xpath = "//div[2]/div[1]/div[3]/div[1]/div[1]/ul/li[12]/a")
     public WebElement currentYearFilter;
+
+    @FindBy(xpath = "//button[@class=\"btn btn-primary btn-sm o_form_button_save\"]")
+    public WebElement saveButton;
+
+    @FindBy (linkText = "Leaves Summary")
+    public WebElement leavesSummaryButton;
+
 }

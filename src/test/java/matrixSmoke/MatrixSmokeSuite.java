@@ -149,23 +149,23 @@ public class MatrixSmokeSuite extends TestBase {
             Thread.sleep(1000);
             homepage.leavesButton.click();
             LeavesPage leavesPage = new LeavesPage();
-            leavesPage.leavesSummary.click();
+            leavesPage.leavesSummaryButton.click();
             Thread.sleep(1500);
             Assert.assertEquals(leavesPage.leavesSummaryText.getText(), "Leaves Summary");
         }
         @Test
-        public void  LeavesSummaryCreateError() throws InterruptedException {
+        public void  LeavesSummaryCreateError(){
             HomePage homepage =new HomePage();
             Thread.sleep(1000);
             homepage.leavesButton.click();
             LeavesPage leavesPage = new LeavesPage();
-            leavesPage.leavesSummary.click();
+            leavesPage.leavesSummaryButton.click();
             Thread.sleep(2000);
-            leavesPage.SummaryCreate.click();
+            leavesPage.createButton.click();
             Thread.sleep(2000);
-            leavesPage.SummarySave.click();
+            leavesPage.createButton.click();
             Thread.sleep(1000);
-            Assert.assertTrue(leavesPage.errMessage.isDisplayed());
+            Assert.assertTrue(leavesPage.messageText.isDisplayed());
 
 
         }
