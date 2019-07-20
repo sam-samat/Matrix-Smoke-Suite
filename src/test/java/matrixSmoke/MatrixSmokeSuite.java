@@ -35,7 +35,7 @@ public class MatrixSmokeSuite extends TestBase {
 
         Assert.assertTrue(leaves.july31DateInput.getAttribute("value").contains("07/31/2019"),"Leaves date verification failed");
         Assert.assertTrue(leaves.leavesRequestMenu.isDisplayed(),"Leaves request menu verification failed");
-
+        System.out.println(leaves.july31DateInput.getAttribute("value"));
     }
 
     @Test
@@ -141,6 +141,7 @@ public class MatrixSmokeSuite extends TestBase {
         Assert.assertEquals(expectedTitleRequest,actualTitleRequest,"Leaves request title didn't pass");
 
 
+
     }
         @Test
         public void LeavesSummaryVerification()throws InterruptedException {
@@ -168,4 +169,7 @@ public class MatrixSmokeSuite extends TestBase {
 
 
         }
+
+    }
+
 }
