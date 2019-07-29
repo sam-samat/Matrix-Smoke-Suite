@@ -121,6 +121,24 @@ public class MatrixSmokeSuite extends TestBase {
 
     }
 
+    @Test
+    public void createButtonVerification(){
+
+    HomePage hp=new HomePage();
+    hp.leavesButton.click();
+
+    LeavesPage lp=new LeavesPage();
+
+    Assert.assertTrue(lp.leavesSummaryText.isDisplayed());
+
+    lp.createVerification.click();
+    String Expected="Create";
+    String actual= Driver.getDriver().getTitle();
+    Assert.assertTrue(actual.contains(actual));
+
+
+
+}
 
 }
 
