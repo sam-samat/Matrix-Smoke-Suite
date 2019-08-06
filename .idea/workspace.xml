@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e46201c-8751-45e0-ab8c-2d49970d0707" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/matrixSmoke/MatrixSmokeSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/matrixSmoke/MatrixSmokeSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/LeavesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LeavesPage.java" afterDir="false" />
     </list>
@@ -20,33 +21,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/smokeSuite.xml">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="1386">
-
-            <state relative-caret-position="945">
-
-              <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configuration.properties">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
-
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="465">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,15 +42,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,13 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/LeavesPage.java">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="-199">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-
-            <state relative-caret-position="553">
-              <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-
+            <state relative-caret-position="1350">
+              <caret line="90" column="37" lean-forward="true" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,11 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="418">
-
-            <state relative-caret-position="285">
-
+            <state relative-caret-position="345">
               <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -109,13 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="176">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-
-            <state relative-caret-position="120">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-
+            <state relative-caret-position="225">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,12 +94,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="66">
-
-            <state relative-caret-position="45">
-
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="60">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,13 +106,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/matrixSmoke/MatrixSmokeSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="524">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-
-            <state relative-caret-position="613">
-              <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
-
+            <state relative-caret-position="212">
+              <caret line="91" column="43" lean-forward="true" selection-start-line="91" selection-start-column="43" selection-end-line="91" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,22 +127,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubProjectSettings">
-    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="Mirzat" />
-    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="sam-samat" />
-    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Matrix-Smoke-Suite" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/configuration.properties" />
-        <option value="$PROJECT_DIR$/smokeSuite.xml" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/Config.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
+        <option value="$PROJECT_DIR$/smokeSuite.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LeavesPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/matrixSmoke/MatrixSmokeSuite.java" />
       </list>
@@ -193,10 +150,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="830" />
+    <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,7 +165,6 @@
         <subPane>
           <expand>
             <path>
-
               <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -220,55 +176,27 @@
             <path>
               <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
-
-              <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
-
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-
               <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
-
-              <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
-
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-
               <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
-
-              <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
-
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="matrixSmoke" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-
               <item name="Matrix-Smoke-Suite" type="b2602c69:ProjectViewProjectNode" />
               <item name="Matrix-Smoke-Suite" type="462c0819:PsiDirectoryNode" />
-
-              <item name="Matrix-Smoke-Suite2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Matrix-Smoke-Suite2" type="462c0819:PsiDirectoryNode" />
-
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -278,8 +206,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,9 +229,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="MatrixSmokeSuite.createButtonVerification" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Matrix-Smoke-Suite2" />
+  <component name="RunManager" selected="TestNG.MatrixSmokeSuite">
+    <configuration name="MatrixSmokeSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Matrix-Smoke-Suite" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="matrixSmoke.*" />
@@ -312,7 +240,78 @@
       </extension>
       <option name="PACKAGE_NAME" value="matrixSmoke" />
       <option name="MAIN_CLASS_NAME" value="matrixSmoke.MatrixSmokeSuite" />
-      <option name="METHOD_NAME" value="createButtonVerification" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixSmokeSuite.DiscardButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Matrix-Smoke-Suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="matrixSmoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="matrixSmoke" />
+      <option name="MAIN_CLASS_NAME" value="matrixSmoke.MatrixSmokeSuite" />
+      <option name="METHOD_NAME" value="DiscardButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixSmokeSuite.LeaveRequestSearchButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Matrix-Smoke-Suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="matrixSmoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="matrixSmoke" />
+      <option name="MAIN_CLASS_NAME" value="matrixSmoke.MatrixSmokeSuite" />
+      <option name="METHOD_NAME" value="LeaveRequestSearchButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixSmokeSuite.SaveButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Matrix-Smoke-Suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="matrixSmoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="matrixSmoke" />
+      <option name="MAIN_CLASS_NAME" value="matrixSmoke.MatrixSmokeSuite" />
+      <option name="METHOD_NAME" value="SaveButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixSmokeSuite.hhhghf" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Matrix-Smoke-Suite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="matrixSmoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="matrixSmoke" />
+      <option name="MAIN_CLASS_NAME" value="matrixSmoke.MatrixSmokeSuite" />
+      <option name="METHOD_NAME" value="hhhghf" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -322,7 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MatrixSmokeSuite.createButtonVerification" />
+        <item itemvalue="TestNG.MatrixSmokeSuite" />
+        <item itemvalue="TestNG.MatrixSmokeSuite.SaveButton" />
+        <item itemvalue="TestNG.MatrixSmokeSuite.LeaveRequestSearchButton" />
+        <item itemvalue="TestNG.MatrixSmokeSuite.DiscardButton" />
+        <item itemvalue="TestNG.MatrixSmokeSuite.hhhghf" />
       </list>
     </recent_temporary>
   </component>
@@ -337,41 +340,54 @@
       <option name="presentableId" value="Default" />
       <updated>1563436047310</updated>
     </task>
-    <task id="LOCAL-00001" summary="updated Mirzat">
-      <created>1563483348499</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1563483348499</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MatrixSmokeSuite_SaveButton - 2019.07.18 at 11h 28m 29s.xml">
+      <configuration name="MatrixSmokeSuite.SaveButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite_hhhghf - 2019.07.18 at 11h 51m 12s.xml">
+      <configuration name="MatrixSmokeSuite.hhhghf" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite_DiscardButton - 2019.07.18 at 11h 54m 11s.xml">
+      <configuration name="MatrixSmokeSuite.DiscardButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite_SaveButton - 2019.07.18 at 11h 57m 28s.xml">
+      <configuration name="MatrixSmokeSuite.SaveButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite - 2019.07.20 at 09h 49m 11s.xml">
+      <configuration name="MatrixSmokeSuite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite_LeaveRequestSearchButton - 2019.07.20 at 09h 50m 20s.xml">
+      <configuration name="MatrixSmokeSuite.LeaveRequestSearchButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite - 2019.07.20 at 10h 04m 11s.xml">
+      <configuration name="MatrixSmokeSuite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite - 2019.07.20 at 10h 05m 58s.xml">
+      <configuration name="MatrixSmokeSuite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite_SaveButton - 2019.07.20 at 10h 22m 24s.xml">
+      <configuration name="MatrixSmokeSuite.SaveButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MatrixSmokeSuite - 2019.07.20 at 10h 32m 26s.xml">
+      <configuration name="MatrixSmokeSuite" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26439232" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-
-    <frame x="0" y="23" width="1440" height="830" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="811" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26180258" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20243205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.111265644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,6 +395,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32684284" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -388,60 +405,38 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated Mirzat" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated Mirzat" />
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.111265644" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32684284" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-
-
-    <entry file="file://$PROJECT_DIR$/smokeSuite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="418">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-
-        <state relative-caret-position="405">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="550">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-
         <state relative-caret-position="945">
           <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
         </state>
@@ -451,18 +446,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
-
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smokeSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatrixSmkSuite.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="308">
-
-        <state relative-caret-position="150">
-
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LeavesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="37" lean-forward="true" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -471,13 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="-199">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-
-        <state relative-caret-position="285">
+        <state relative-caret-position="345">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#541#542#0" expanded="true" />
@@ -488,13 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="176">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-
-        <state relative-caret-position="120">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-
+        <state relative-caret-position="225">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -503,35 +520,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="66">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-
-        <state relative-caret-position="45">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LeavesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+        <state relative-caret-position="60">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/matrixSmoke/MatrixSmokeSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="524">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-
-        <state relative-caret-position="613">
-          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
-
+        <state relative-caret-position="212">
+          <caret line="91" column="43" lean-forward="true" selection-start-line="91" selection-start-column="43" selection-end-line="91" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
